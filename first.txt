@@ -1,0 +1,3 @@
+hello how are your ?
+ i am fine
+ Wel come to the node js using file sync
